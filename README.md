@@ -30,7 +30,7 @@ OR
 ### NPM
 
 ```
-npm install morioh
+npm install israel
 ```
 
 ### Yarn
