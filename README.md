@@ -1,7 +1,7 @@
 # Israel-adeyeye-dashbord
 
 
-# Morioh Theme: Responsive Template with Bootstrap 4, HTML5 and Vue.js
+# Israel Theme: Responsive Template with Bootstrap 4, HTML5 and Vue.js
 
 [![Israel Responsive Template with Bootstrap 4, HTML5 and Vue.js]
 
